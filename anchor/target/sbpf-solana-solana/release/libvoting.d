@@ -1,0 +1,1 @@
+/home/learnedprawn/Projects/developer-bootcamp-2024/project-3-blinks/anchor/target/sbpf-solana-solana/release/libvoting.rlib: /home/learnedprawn/Projects/developer-bootcamp-2024/project-3-blinks/anchor/programs/voting/src/lib.rs
